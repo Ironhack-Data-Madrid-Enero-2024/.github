@@ -1,4 +1,4 @@
-**Horario de clase**
+## Horario de clase
 
 **Semana 1**
 
