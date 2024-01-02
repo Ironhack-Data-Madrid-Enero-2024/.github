@@ -17,7 +17,7 @@
 | Día             | Temario                                      |
 |-----------------|----------------------------------------------|
 | Lunes 22-Enero | Pandas, Intro DC & DW              |
-| Martes 23-Enero    | DW         |
+| Martes 23-Enero    | DC/DW         |
 | Miércoles 24-Enero | Tranformation, Aggregation              |
 | Jueves 25-Enero    | Web structure, APIs         |
 | Viernes 26-Enero | Web Scraping              |
