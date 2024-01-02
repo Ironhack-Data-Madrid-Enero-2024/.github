@@ -1,66 +1,117 @@
-En este repositorio tendréis todos los jupyters que veremos en clase
+**Horario de clase**
 
-El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cambios):
-
-**MÓDULO 1**
-
-[Semana 1](https://github.com/Ironhack-Data-Madrid-PartTime-May22/apuntes_clases/tree/main/semana-01)
+**Semana 1**
 
 | Día             | Temario                                      |
 |-----------------|----------------------------------------------|
-| Miércoles 03-Mayo | presentación, terminal, git & configuración ordenadores              |
-| Sábado 06-Mayo    | Tipos de datos & Estructuras de datos         |
-
-
-[Semana 2](https://github.com/Ironhack-Data-Madrid-PartTime-May22/apuntes_clases/tree/main/semana-02)
-
-| Día             | Temario                                      |
-|-----------------|----------------------------------------------|
-| Martes 09-Mayo | Métodos de los strings & Manejo de errores             |
-| Miércoles 10-Mayo    | Control de flujo        |
-| Sábado 13-Mayo    | Funciones       |
+| Lunes 15-Enero | Python Data Structures              |
+| Martes 16-Enero    | Python Control Flow         |
+| Miércoles 17-Enero | Python Functions             |
+| Jueves 18-Enero    | Python Lambda, Map, Reduce, Filter         |
+| Viernes 19-Enero | Python OOP              |
 
 
 
-[Semana 3](https://github.com/Ironhack-Data-Madrid-PartTime-May22/apuntes_clases/tree/main/semana-03)
+**Semana 2**
 
 | Día             | Temario                                      |
 |-----------------|----------------------------------------------|
-| Martes 16-Mayo | Lambdas & Map, Filter, Reduce             |
-| Miércoles 17-Mayo    | Programación orientada a objetos I    |
-| Jueves 18-Mayo    | Programación orientada a objetos II         |
-| Sábado 20-Mayo    | Numpy        |
+| Lunes 22-Enero | Pandas, Intro DC & DW              |
+| Martes 23-Enero    | DW         |
+| Miércoles 24-Enero | Tranformation, Aggregation              |
+| Jueves 25-Enero    | Web structure, APIs         |
+| Viernes 26-Enero | Web Scraping              |
 
 
-[Semana 4](https://github.com/Ironhack-Data-Madrid-PartTime-May22/apuntes_clases/tree/main/semana-04)
 
-| Día             | Temario                                      |
-|-----------------|----------------------------------------------|
-| Lunes 22-Mayo | Intro Pandas          |
-| Miércoles 24-Mayo    | Advanced Pandas   |
-| Sábado 27-Mayo    | Ejercicios practicos        |
-
-
-[Semana 5](https://github.com/Ironhack-Data-Madrid-PartTime-May22/apuntes_clases/tree/main/semana-05)
+**Semana 3**
 
 | Día             | Temario                                      |
 |-----------------|----------------------------------------------|
-| Lunes 29-Mayo | Concat, Merge, Join     |
-| Miércoles 31-Mayo    | Regex   |
-| Sábado 03-Junio    | Visualización       |
+| Lunes 29-Enero | Project 1 - Extract/Transform              |
+| Martes 30-Enero    | Project 1 - Extract/Transform         |
+| Miércoles 31-Enero | Project 1 - Extract/Transform              |
+| Jueves 1-Febrero    | Project 1 - Extract/Transform         |
+| Viernes 2-Febrero | Project 1 - Extract/Transform              |
 
 
------ 
 
-**MÓDULO 2**
 
-[Semana 6](https://github.com/Ironhack-Data-Madrid-PartTime-May22/apuntes_clases/tree/main/semana-06)
+**Semana 4**
 
 | Día             | Temario                                      |
 |-----------------|----------------------------------------------|
-| Lunes 05-Junio  | Intro SQL: Creación, Inserción y Actualización de datos  |
-| Miércoles 07-Junio  | Queries    |
+| Lunes 5-Febrero | Intro SQL / Workbench              |
+| Martes 6-Febrero    | Basic Queries SQL         |
+| Miércoles 7-Febrero | JOINs & Subqueries              |
+| Jueves 8-Febrero    | Views, Window Functions         |
+| Viernes 9-Febrero | Python & SQL              |
 
+
+
+
+**Semana 5**
+
+| Día             | Temario                                      |
+|-----------------|----------------------------------------------|
+| Lunes 12-Febrero | EDA Univariate              |
+| Martes 13-Febrero    | EDA Bivariate & Multivariate         |
+| Miércoles 14-Febrero | Intro Probability              |
+| Jueves 15-Febrero    | Hypothesis testing         |
+| Viernes 16-Febrero | AB Testing              |
+
+
+
+
+**Semana 6**
+
+| Día             | Temario                                      |
+|-----------------|----------------------------------------------|
+| Lunes 19-Febrero | Tableau I              |
+| Martes 20-Febrero    | Tableau II         |
+| Miércoles 21-Febrero | Project 2              |
+| Jueves 22-Febrero    | Project 2         |
+| Viernes 23-Febrero | Project 2              |
+
+
+
+
+**Semana 7**
+
+| Día             | Temario                                      |
+|-----------------|----------------------------------------------|
+| Lunes 26-Febrero | DESC              |
+| Martes 27-Febrero    | DESC         |
+| Miércoles 28-Febrero | DESC              |
+| Jueves 29-Febrero    | DESC         |
+| Viernes 1-Marzo | DESC              |
+
+
+
+
+**Semana 8**
+
+| Día             | Temario                                      |
+|-----------------|----------------------------------------------|
+| Lunes 4-Marzo | DESC              |
+| Martes 5-Marzo    | DESC         |
+| Miércoles 6-Marzo | DESC              |
+| Jueves 7-Marzo    | DESC         |
+| Viernes 8-Marzo | DESC              |
+
+
+
+
+
+**Semana 9**
+
+| Día             | Temario                                      |
+|-----------------|----------------------------------------------|
+| Lunes 11-Marzo | DESC              |
+| Martes 12-Marzo    | DESC         |
+| Miércoles 13-Marzo | DESC              |
+| Jueves 14-Marzo    | DESC         |
+| Viernes 15-Marzo | DESC              |
 
 
 
