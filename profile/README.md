@@ -93,11 +93,11 @@
 
 | Día             | Temario                                      |
 |-----------------|----------------------------------------------|
-| Lunes 4-Marzo | DESC              |
-| Martes 5-Marzo    | DESC         |
-| Miércoles 6-Marzo | DESC              |
-| Jueves 7-Marzo    | DESC         |
-| Viernes 8-Marzo | DESC              |
+| Lunes 4-Marzo | Final Project              |
+| Martes 5-Marzo    | Final Project         |
+| Miércoles 6-Marzo | Final Project              |
+| Jueves 7-Marzo    | Final Project         |
+| Viernes 8-Marzo | Final Project              |
 
 
 
@@ -107,11 +107,11 @@
 
 | Día             | Temario                                      |
 |-----------------|----------------------------------------------|
-| Lunes 11-Marzo | DESC              |
-| Martes 12-Marzo    | DESC         |
-| Miércoles 13-Marzo | DESC              |
-| Jueves 14-Marzo    | DESC         |
-| Viernes 15-Marzo | DESC              |
+| Lunes 11-Marzo | Final Project              |
+| Martes 12-Marzo    | Final Project         |
+| Miércoles 13-Marzo | Final Project              |
+| Jueves 14-Marzo    | Final Project         |
+| Viernes 15-Marzo | Final Project              |
 
 
 
